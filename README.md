@@ -1,1 +1,1 @@
-# yet-another-journal
+# yet another journal
